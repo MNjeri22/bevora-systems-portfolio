@@ -10,8 +10,6 @@ A growing collection of administrative workflows that connect client inquiries, 
 
 ![Automated Client Intake Workflow](01-intake-workflow/Bevora_Intake_Workflow.png)
 
-[Explore the intake workflow](01-intake-workflow/) · [View PDF](01-intake-workflow/Bevora_Intake_Workflow.pdf) · [Download editable diagram](01-intake-workflow/Bevora_Intake_Workflow.drawio)
-
 ### Coming next
 
 **02 · Insurance Verification** — to be documented next.
