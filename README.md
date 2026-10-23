@@ -16,6 +16,12 @@ Connects coverage verification, client payment responsibility, signed financial 
 
 ![Insurance Verification & Payment Workflow](02-insurance-verification/Bevora_Insurance_Verification_Workflow.png)
 
+### 03 · Service Authorization & Renewal
+
+Coordinates service approvals, conflicting-service resolution, client notifications, and renewal tracking.
+
+![Service Authorization & Renewal Workflow](03-authorization-renewal/Bevora_Authorization_Renewal_Workflow.png)
+
 ---
 
 Bevora Health Operations | Intake Coordination & Workflow Automation
