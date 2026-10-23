@@ -1,2 +1,23 @@
-# bevora-systems-portfolio
-Bevora Health Operations portfolio of intake workflows, insurance verification processes, and connected administrative systems.
+# Bevora Health Operations
+
+## Systems & Workflow Portfolio
+
+A growing collection of administrative workflows that connect client inquiries, organized information, and timely follow-up.
+
+### 01 · Intake Workflow
+
+**Automated Client Intake** connects an online intake form to a centralized intake register and contact management system, then automatically acknowledges the submission.
+
+![Automated Client Intake Workflow](01-intake-workflow/Bevora_Intake_Workflow.png)
+
+[Explore the intake workflow](01-intake-workflow/) · [View PDF](01-intake-workflow/Bevora_Intake_Workflow.pdf) · [Download editable diagram](01-intake-workflow/Bevora_Intake_Workflow.drawio)
+
+### Coming next
+
+**02 · Insurance Verification** — to be documented next.
+
+---
+
+Bevora Health Operations | Intake Coordination & Workflow Automation
+
+Illustrative workflows use generic system labels and contain no client data.
