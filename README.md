@@ -10,9 +10,11 @@ A growing collection of administrative workflows that connect client inquiries, 
 
 ![Automated Client Intake Workflow](01-intake-workflow/Bevora_Intake_Workflow.png)
 
-### Coming next
+### 02 · Insurance Verification & Payment
 
-**02 · Insurance Verification** — to be documented next.
+Connects coverage verification, client payment responsibility, signed financial consent, invoicing, and payment acknowledgment.
+
+![Insurance Verification & Payment Workflow](02-insurance-verification/Bevora_Insurance_Verification_Workflow.png)
 
 ---
 
